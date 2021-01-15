@@ -908,7 +908,3 @@ int main(int argc, char* argv[])
 
     return 0;
 }
-
-//Made a function SELECT that operate with the structure to send selected zone to functions to work with,
-//In some of the functions there is stil some ammount of code that selects the "row" and "col"
-//This code in function selects the place that was given not by selection but as argument of the function 
